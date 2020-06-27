@@ -1,0 +1,18 @@
+firstFit 50
+load A 10
+load B 10
+load C 2
+load D 1
+load E 2
+load F 5
+load G 20
+load X 30
+unload A
+unload G
+unload C
+unload E
+unload D
+load H 5
+unload B
+unload H
+unload F
