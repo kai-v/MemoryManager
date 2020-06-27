@@ -1,10 +1,4 @@
-//
-//  MemoryChunk.hpp
-//  Project7
-//
-//  Created by Kai Velagapudi on 5/20/20.
-//  Copyright © 2020 Kai Velagapudi. All rights reserved.
-//
+
 
 #ifndef MemoryChunk_hpp
 #define MemoryChunk_hpp
